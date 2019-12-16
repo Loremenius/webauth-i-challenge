@@ -1,0 +1,23 @@
+{
+  "name": "webauth-i-challenge",
+  "version": "1.0.0",
+  "description": "Lambda School Web Auth Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loremenius/webauth-i-challenge.git"
+  },
+  "author": "Marcellino Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loremenius/webauth-i-challenge/issues"
+  },
+  "homepage": "https://github.com/Loremenius/webauth-i-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.4"
+  }
+}
